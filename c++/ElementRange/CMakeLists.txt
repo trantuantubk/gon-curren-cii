@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.16)
+project(ElementRange)
+set(CMAKE_CXX_STANDARD 20)
+find_package(Threads REQUIRED)
+add_executable(ElementRange src/main.cpp)
+target_link_libraries(ElementRange Threads::Threads)
