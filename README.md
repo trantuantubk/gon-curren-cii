@@ -1,2 +1,1 @@
-**GON-CURREN-CII: Concurrent Programming with Go and C++
-**
+# GON-CURREN-CII: Concurrent Programming with Go and C++
